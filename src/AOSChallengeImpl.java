@@ -8,6 +8,7 @@ public class AOSChallengeImpl implements AOSChallenge {
     //#1
     public int[] productOfOtherPositions(int[] input) {
 
+
         //can put nullchecks and no. of elements in the array
         int[] resultArray = new int[input.length];
         int resultSum = 1;
