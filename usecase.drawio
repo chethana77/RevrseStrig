@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T14:53:30.569Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.4" etag="jFX5qq_KtEBSHP412zEh" type="github"><diagram id="Jt1glK3f8_B5d9KZszaW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-17T13:53:58.965Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.4" etag="R0SgqBnBt6HtMyP2iO4a" type="github">
+  <diagram id="Mb4FNk0sN1bPKI6LEv7M" name="Page-1">
+    <mxGraphModel dx="1672" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-1" value="Customer&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-4" value="Make Investment" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#BDD7FF;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-10" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="39AnRgWJBKTsMH_QnmjT-4">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="190" y="270" as="sourcePoint" />
+            <mxPoint x="500" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-11" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="39AnRgWJBKTsMH_QnmjT-12">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="190" y="270" as="sourcePoint" />
+            <mxPoint x="350" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-12" value="Create Savings plan" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#BDD7FF;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-16" value="Create budget" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#BDD7FF;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="340" y="210" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-17" value="Categorize transactions" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#BDD7FF;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-18" value="Recieve alerts and notifications" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#BDD7FF;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="340" y="330" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-19" value="View financial advisor recommendations" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#BDD7FF;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-20" value="View investment recommendation" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#BDD7FF;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-21" value="View financial products&lt;br&gt;advertisements" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#BDD7FF;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="330" y="500" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-22" value="Financial&amp;nbsp;&lt;br&gt;Advisor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-23" value="Advertisement admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="400" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-25" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="39AnRgWJBKTsMH_QnmjT-16">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="190" y="270" as="sourcePoint" />
+            <mxPoint x="360.00000000000364" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-26" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="39AnRgWJBKTsMH_QnmjT-18">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="190" y="270" as="sourcePoint" />
+            <mxPoint x="370.00000000000364" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-27" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="39AnRgWJBKTsMH_QnmjT-19">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="190" y="270" as="sourcePoint" />
+            <mxPoint x="365.00000000000364" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-28" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="39AnRgWJBKTsMH_QnmjT-21">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="190" y="270" as="sourcePoint" />
+            <mxPoint x="350" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-29" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="39AnRgWJBKTsMH_QnmjT-17">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="190" y="270" as="sourcePoint" />
+            <mxPoint x="385.00000000000364" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-33" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="39AnRgWJBKTsMH_QnmjT-37">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="680" y="430" as="sourcePoint" />
+            <mxPoint x="750" y="429.52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-34" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="39AnRgWJBKTsMH_QnmjT-35" target="39AnRgWJBKTsMH_QnmjT-22">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="670" y="250" as="sourcePoint" />
+            <mxPoint x="660" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-35" value="Onboard" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#BDD7FF;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="520" y="230" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39AnRgWJBKTsMH_QnmjT-37" value="Publish financial product advertisement" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#BDD7FF;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="530" y="390" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
